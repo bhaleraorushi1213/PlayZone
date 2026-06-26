@@ -64,6 +64,11 @@ h1 {
     cursor: pointer;
 }
 
+#action-btns {
+    display: flex;
+    gap: 8px;
+}
+
 #new-btn {
     padding: 1rem;
     font-size: 1.25rem;
